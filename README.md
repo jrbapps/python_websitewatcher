@@ -19,7 +19,7 @@ I am in no way associated or affiliated with Pushover, I just think it's a cool 
 Motivation:
 
 Whenever we write exams in university the results will be posted online. We never know when exactly the results get posted which is why I was bored after checking it myself. With this tool I just get a notfication to my iPhone when the exam results have been uploaded.
-I know that you can use "javascript:alert(document.lastModified)" in the URL bar to get the last modified date of a website, but most of the time websites will just give you the current time which wouldn't work for my purposes. 
+I know that you can use "javascript:alert(document.lastModified)" in the URL bar to get the last modified date of a website, but most of the time websites will just give you the current time which wouldn't work for my purposes. Some websites send the content-length in their header, but this isn't always the case.
 
 Planned features / What to expect in the future:
 
