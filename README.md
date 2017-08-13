@@ -26,3 +26,5 @@ Planned features / What to expect in the future:
 - Support for websites where you have to log-in first 
 
 - Support for every website: Right now there can be issues when there is dynamic content like changing dates on a website (because it messes up the md5 hash and the tool thinks the whole website has changed)
+
+- Delete temporary files website.txt and website_new.txt when the script ends successfully OR before it gets cancelled by the user (I'm not sure yet on how to do the second part)
