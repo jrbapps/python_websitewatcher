@@ -33,7 +33,7 @@ class Settings:
 
     """
 
-    url = ""
+    url = "https://www.publix.com/covid-vaccine/florida"
     push = True
     music = True
     update_timer = 20
